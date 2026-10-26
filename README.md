@@ -70,4 +70,5 @@ absorption in a silver mirror.
 
 ## Citation
 
-If you use this code, please cite the paper above.
+If you use this code, please cite the paper above and the archived version of the code:
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23669740.svg)](https://doi.org/10.5281/zenodo.23669740)
